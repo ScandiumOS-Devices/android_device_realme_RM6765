@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "Dv-kernelRMX2189Q",
+    "target_path": "kernel/realme/RMX2185"
+  },
+  {
+    "repository": "device_vendor_realme_RMX2185",
+    "target_path": "vendor/realme/RMX2185"
+  }
+]
